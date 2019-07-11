@@ -1,0 +1,22 @@
+{
+  "name":"FancyButton",
+  "description":"Fancy button handler to add features like double and multi-presses to inexpensive 433 MHz remotes",
+  "keywords":"433mhz, debounce",
+  "authors":
+  {
+    "name": "Leif Claesson",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/liket/FancyButton.git"
+  },
+  "version": "0.0.1",
+  "license": "LGPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "build": {
+    "libCompatMode": 2
+  }  
+}
