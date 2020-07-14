@@ -13,7 +13,7 @@
     "url": "https://github.com/liket/FancyButton.git"
   },
   "version": "0.0.1",
-  "license": "LGPL-3.0",
+  "license": "LGPL-3.0-or-later",
   "frameworks": "arduino",
   "platforms": "*",
   "build": {
