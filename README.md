@@ -1,3 +1,19 @@
+# ******************************
+# This Library is DEPRECATED
+
+[Use SuperButtons instead.](https://github.com/leifclaesson/SuperButtons)
+Similar functionality but _universal_, no need to pre-define each button. Just feed the output to an MQTT topic and go.
+
+# ******************************
+#
+#
+#
+#
+#
+#
+#
+
+
 # FancyButton
 Fancy button handler to add features like double and multi-presses. Can be used with any type of button but originally designed for 433 MHz remotes.
 
