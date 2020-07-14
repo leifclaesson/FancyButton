@@ -1,7 +1,7 @@
 # ******************************
 # This Library is DEPRECATED
 
-[Use SuperButtons instead](https://github.com/leifclaesson/SuperButtons)
+[Use SuperButtons instead.](https://github.com/leifclaesson/SuperButtons)
 Similar functionality but _universal_, no need to pre-define each button. Just feed the output to an MQTT topic and go.
 
 # ******************************
